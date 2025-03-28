@@ -1,0 +1,50 @@
+[
+    {
+        "title": "ZA Gym Workout",
+        "details": "ZA Complete a 1-hour strength training session, focusing on core exercises and endurance improvement.",
+        "due date": "19-Mar-2025",
+        "priority": "Medium",
+        "completed": "Yes",
+        "added date": "2025-03-19 02:13:58 PM"
+    },
+    {
+        "title": "Project Submission - Artificial Intelligence",
+        "details": "Submit a detailed AI-based project report, including research findings, models, and future improvements.",
+        "due date": "12-Mar-2025",
+        "priority": "High",
+        "completed": "Yes",
+        "added date": "2025-03-19 02:13:58 PM"
+    },
+    {
+        "title": "Call Client",
+        "details": "Discuss project updates, address client concerns, and finalize the next milestones for delivery. Zubair Ahmed",
+        "due date": "19-Mar-2025",
+        "priority": "Medium",
+        "completed": "Yes",
+        "added date": "2025-03-19 04:41:56 PM"
+    },
+    {
+        "title": "Education",
+        "details": "Attend school to complete the final assessments and participate in extracurricular activities.",
+        "due date": "26-Mar-2025",
+        "priority": "Medium",
+        "completed": "No",
+        "added date": "2025-03-19 02:13:58 PM"
+    },
+    {
+        "title": "Grocery Shopping",
+        "details": "Buy essential groceries, including fresh fruits, vegetables, dairy products, and household supplies.",
+        "due date": "19-Dec-2025",
+        "priority": "Low",
+        "completed": "No",
+        "added date": "2025-03-19 02:13:58 PM"
+    },
+    {
+        "title": "Pray Time",
+        "details": "Jumma Namz",
+        "due date": "19-Mar-2025",
+        "priority": "High",
+        "completed": "Yes",
+        "added date": "2025-03-19 06:25:57 PM"
+    }
+]
